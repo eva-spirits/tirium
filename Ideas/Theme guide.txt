@@ -1,0 +1,26 @@
+Elements
+========
+	- Water
+	- Blood
+	- Fire
+	- Poison
+	- Lightning
+	- Cold	
+	- Physical
+	- Earth (Oil and stuff)
+
+*Mislio sam da bi za svaku ili vecinu unita stavit opciju, npr. cleric / necromancer ili npr. elf rogue / vampire*
+
+Castles
+=======
+	- Zerg like aliens (spred bubbley organic creep over the map, but has no walls)
+	- Machines / robots (Steampunk / clockwork style, lots of cogs, bronze, iron, steam and stone)
+	- Good Mortals (Humans, elves, dwarves)
+	- Evil Mortals (Undead, demons, underground)
+
+Elemental affinities
+====================
+	- Good Mortals:	Physical > Water > Lightning
+	- Evil Mortals:	Physical > Blood > Fire
+	- Machines:		Fire > Earth > Lightning
+	- Aliens: 		Poison > Cold > Lightning

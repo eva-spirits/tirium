@@ -1,0 +1,10 @@
+Evil Mortals
+============
+
+Elemental affinities: Physical > Blood > Fire
+
+Races:
+	- Undead	(Skeleton, Vampire, Lich, Zombie, Necromancer)
+	- Demons	(Imp, Cerberus, Elder Demon, Lesser Demon)
+	- Dungeon	(Wyvern, Dragon, Gorgon, Minotaur)
+	- Shared	(Abomination)
